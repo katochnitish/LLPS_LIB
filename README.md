@@ -9,7 +9,7 @@ Scripts: Code for data processing, analysis, and generation of figures.
 Figures: All plots and visual representations as seen in the manuscript.
 
 Usage
-The contents of this repository are organized to facilitate easy access and reproducibility of the results presented in the manuscript. Users can navigate through the folders to find specific datasets and scripts related to particular figures or analyses.
+The contents of this repository are organized to facilitate easy access and reproducibility of the results presented in the manuscript. 
 
 Contact
 For any inquiries or further information, please contact:
